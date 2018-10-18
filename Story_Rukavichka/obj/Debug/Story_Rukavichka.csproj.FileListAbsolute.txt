@@ -1,0 +1,7 @@
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\bin\Debug\Story_Rukavichka.exe.config
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\bin\Debug\Story_Rukavichka.exe
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\bin\Debug\Story_Rukavichka.pdb
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\obj\Debug\Story_Rukavichka.csprojAssemblyReference.cache
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\obj\Debug\Story_Rukavichka.csproj.CoreCompileInputs.cache
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\obj\Debug\Story_Rukavichka.exe
+C:\Users\Валентин\source\repos\Story_Rukavichka\Story_Rukavichka\obj\Debug\Story_Rukavichka.pdb
